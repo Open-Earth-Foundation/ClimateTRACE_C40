@@ -1,0 +1,80 @@
+City,Country,iso_code,locode
+Abidjan,Côte d’Ivoire,CI,CI ABJ
+Accra,Ghana,GH,GH ACC
+Addis Ababa,Ethiopia,ET,ET ADD
+Amman,Jordan,JO,JO AMM
+Amsterdam,The Netherlands,NL,NL AMS
+Athens,Greece,GR,
+Auckland,New Zealand,NZ,NZ AKL
+Austin,USA,US,
+Boston,USA,US,US BOS
+Chicago,USA,US,US CHI
+Houston,USA,US,US HOU
+Los Angeles,USA,US,US LAX
+Miami,USA,US,US MIA
+New Orleans,USA,US,US MSY
+New York City,USA,US,US NYC
+Philadelphia,USA,US,US PHL
+Phoenix,USA,US,US PHX
+Portland,USA,US,
+San Francisco,USA,US,US SFO
+Seattle,USA,US,US SEA
+"Washington, DC",USA,US,US WAS
+Bangkok,Thailand,TH,TH PAT
+Barcelona,Spain,ES,ES BCN
+Madrid,Spain,ES,ES MAD
+Bengaluru,India,IN,
+Chennai,India,IN,
+Delhi NCT,India,IN,IN DEL
+Kolkata,India,IN,IN CCU
+Mumbai,India,IN,IN BOM
+Berlin,Germany,DE,DE BER
+Heidelberg,Germany,DE,DE HEI
+Bogotá,Colombia ,CO,CO BOG
+Medellín,Colombia ,CO,CO MDE
+Buenos Aires,Argentina,AR,AR BUE
+Cape Town,South Africa,ZA,ZA CPT
+Durban (eThekwini),South Africa,ZA,
+Ekurhuleni,South Africa,ZA,
+Johannesburg,South Africa,ZA,ZA HDL
+Tshwane,South Africa,ZA,
+Copenhagen,Denmark,DK,
+Curitiba,Brazil,BR,BR CWB
+Rio de Janeiro,Brazil,BR,BR RIO
+Salvador,Brazil,BR,BR SSA
+São Paulo,Brazil,BR,BR SAO
+Dakar,Senegal,SN,SN DKR
+Dhaka,Bangladesh,BD,BD KAM
+Dubai,United Arab Emirates,AE,AE DXB
+Freetown,Sierra Leone,SL,SL FNA
+Guadalajara,Mexico,MX,MX GDL
+Ciudad de México,Mexico,MX,MX MEX
+Hanoi,Vietnam,VN,VN HAN
+Ho Chi Minh City,Vietnam,VN,VN SGN
+Istanbul,Turkey,TR,TR IST
+Kuala Lumpur,Malaysia,MY,MY KUL
+Lagos,Nigeria,NG,NG LOS
+Lima,Peru,PE,
+Lisbon,Portugal,PT,
+London,United Kingdom,GB,GB LDY
+Melbourne,Australia,AU,
+Sydney,Australia,AU,AU DRE
+Milan,Italy,IT,AU MEL
+Rome,Italy,IT,
+Venice,Italy,IT,
+Montréal,Canada,CA,CA MTR
+Toronto,Canada,CA,CA TOR
+Vancouver,Canada,CA,CA VAN
+Nairobi,Kenya,KE,KE NBO
+Oslo,Norway,NO,NO OSL
+Paris,France,FR,FR PAR
+Quezon City,Philippines,PH,PH QZT
+Quito,Ecuador,EC,EC UIO
+Rotterdam,Netherlands,NL,NL RTM
+Santiago,Chile,CL,CL SCL
+Seoul,South Korea,KR,KR SEL
+Stockholm,Sweden,SE,SE STO
+Tel Aviv,Israel,IL,IL HOL
+Tokyo,Japan,JP,JP TYO
+Yokohama,Japan,JP,JP YOK
+Warsaw,Poland,PL,
