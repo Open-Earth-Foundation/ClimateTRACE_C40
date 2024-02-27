@@ -38,7 +38,7 @@ def get_c40_data():
     columns = [
         "City",
         "locode",
-        "Year",
+        "Year_calendar",
         "I.1.1",
         "I.1.2",
         "I.1.3",
@@ -95,7 +95,7 @@ def get_c40_data():
         "VI.1",
     ]
 
-    return df_raw[columns].rename(columns={"City": "city", "Year": "year"})
+    return df_raw[columns].rename(columns={"City": "city", "Year_calendar": "year"})
 
 
 def filter_out_notation_keys(df, cols):
